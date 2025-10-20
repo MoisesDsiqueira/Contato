@@ -1,10 +1,9 @@
 # 👋 Olá! Sou o Moisés Oliveira
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse por tecnologia, segurança da informação e desenvolvimento de software.
-Atualmente, estou me aprofundando em temas que vão desde hardware e redes até bancos de dados, aprendizado de máquina e IA generativa.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, segurança da informação e desenvolvimento de software.
 
-Busco sempre unir teoria e prática, desenvolvendo soluções que sejam eficientes, seguras e úteis.
-Trabalho com Oracle SQL Developer e MySQL, criando e otimizando estruturas de banco de dados, procedures e triggers, além de desenvolver aplicações com Java e boas práticas de código.
+Atualmente, estou focado em desenvolvimento back-end, aprimorando minhas habilidades em Java, SQL, PL/SQL e estrutura de bancos de dados.
+Além disso, estudo fundamentos de hardware, redes e IA generativa, buscando sempre unir teoria e prática para criar soluções robustas, seguras e escaláveis.
 
 # ⚙️ Tecnologias e Ferramentas
 
