@@ -7,7 +7,7 @@ Além disso, estudo fundamentos de hardware, redes e IA generativa, buscando sem
 
 # ⚙️ Tecnologias e Ferramentas
 
-💾 Banco de Dados: Oracle SQL Developer | MySQL
+💾 Banco de Dados: Oracle SQL Developer | MySQL | SQL Server
 
 💻 Linguagens: SQL | PL/SQL | Java
 
